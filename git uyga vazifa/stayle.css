@@ -1,0 +1,81 @@
+#body{
+background-color: hsla(172, 100%, 20%, 0.904);
+height: 600px;
+margin-top: 15px;
+width: 1400px;
+height: 1000px;
+top: -513px;
+left: -720px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bir{ 
+text-align: center;
+color: aliceblue;
+padding-top: 22px;
+}
+span{ 
+background-color: #311313;
+font-size: 69px;
+height: 591px;
+width: 636px;
+}
+.ikki{ background-color: black;
+color: aquamarine;
+border: 10px solid red;
+width: 1000px;
+height: 700px;
+top: 193px;
+left: 220px;
+gap: 0px;
+border: 10px 0px 0px 0px;
+opacity: 0px;
+margin: 53px 220px 193px 220px;
+
+}
+
+p{color: black;
+background-color: aquamarine;
+width: 650px;
+height: 100px;
+top: 238px;
+left: 272px;
+gap: 30px;
+opacity: 0px;
+padding: 65px 82px 65px 82px;
+margin: 65px 120px 65px 120px;
+font-size: 30px;
+}
+#text{ 
+font-size: larger;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
